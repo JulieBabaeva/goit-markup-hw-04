@@ -224,8 +224,6 @@ p {
   display: flex;
   flex-direction: column;
   align-items: center;
-
-  linear-gradient: ;
 }
 .hero-title {
   max-width: 496px;
@@ -275,8 +273,7 @@ p {
   justify-content: center;
   margin-bottom: 8px;
 }
-.features-svg {
-}
+
 .features-item {
   width: calc((100% - 72px) / 4);
 }
@@ -345,8 +342,7 @@ p {
 .portfolio {
   padding: 120px 0 120px 0;
 }
-.container-portfolio {
-}
+
 .title-portfolio {
   margin-bottom: 72px;
 }
