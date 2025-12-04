@@ -184,6 +184,7 @@ p {
 }
 .nav-link-current::after {
   content: "";
+  display: block;
   position: absolute;
   border-radius: 2px;
   width: 48px;
