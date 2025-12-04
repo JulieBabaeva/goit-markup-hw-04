@@ -436,6 +436,11 @@ p {
   font-weight: 500;
   color: #ffffff;
 }
+.footer-column a:hover,
+.footer-column a:focus {
+  background-color: #31d0aa;
+}
+
 .footer-column:nth-child(2) {
   margin-left: 120px;
 }
