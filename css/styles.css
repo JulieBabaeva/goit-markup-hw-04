@@ -430,19 +430,15 @@ p {
   margin-right: 120px;
 }
 .footer-column {
-  display: flex;
   flex-direction: column;
   gap: 16px;
   font-weight: 500;
   color: #ffffff;
+  margin-right: 120px;
 }
 .footer-column a:hover,
 .footer-column a:focus {
   background-color: #31d0aa;
-}
-
-.footer-column:nth-child(2) {
-  margin-left: 120px;
 }
 
 .logo-footer {
@@ -469,8 +465,9 @@ p {
 }
 .footer-paragraph-social-links {
   display: flex;
-  color: #f4f4fd;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
+  font-weight: 500;
+  color: var(--color-white);
 }
 .social-list-footer {
   display: flex;
